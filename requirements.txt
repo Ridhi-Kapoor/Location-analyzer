@@ -2,6 +2,12 @@ streamlit
 pandas
 numpy
 matplotlib
+seaborn
 scikit-learn
+scipy
 folium
 streamlit-folium
+requests
+geopy
+plotly
+googlemaps
